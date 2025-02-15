@@ -62,7 +62,7 @@ I'm a recent Data Science graduate from **Northern Arizona University** with a s
 ## 🤝 **Let's Connect!**
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me:  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/caleblking/)  
+- **LinkedIn:** [linkedin.com/caleblking](https://www.linkedin.com/in/caleblking/)  
 - **Email:** [calebking@gmail.com](mailto:calebking@gmail.com)  
 - **GitHub:** [github.com/KingCalebDS](https://github.com/KingCalebDS)  
 
