@@ -71,7 +71,3 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 ⭐️ **Feel free to explore my repositories, and don't forget to star the ones you like!** ⭐️  
 
 ---
-
-### License
-
-This project is licensed under the **[License Name]** - see the [LICENSE](LICENSE) file for details.
